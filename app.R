@@ -201,7 +201,7 @@ server <- function(input, output, session) {
       ),
       
       # 3.3.3: Sign Out ----
-      a(href="https://coopstudies.shinyapps.io/Dashboard/", class="btn btn-danger btn-md pull-right", translate$t("Sign Out")),
+      a(href="https://syedrizvi05.shinyapps.io/DashboardApp/", class="btn btn-danger btn-md pull-right", translate$t("Sign Out")),
       
       # * Home Page ----
       tabPanel(
